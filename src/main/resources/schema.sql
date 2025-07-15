@@ -1,0 +1,6 @@
+CREATE TABLE shelf (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(100) NOT NULL,
+    author VARCHAR(100) NOT NULL,
+    published INT NOT NULL
+);
