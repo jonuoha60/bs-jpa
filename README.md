@@ -39,9 +39,7 @@ cd movies-database
 2. Configure MySQL Database
 Create a database in MySQL (e.g., books):
 
-sql
-Copy
-Edit
+
 CREATE DATABASE books;
 Update your application.properties:
 
@@ -56,9 +54,6 @@ spring.jpa.hibernate.ddl-auto=update
 3. Run the Application
 Using terminal or your IDE:
 
-bash
-Copy
-Edit
 ./mvnw spring-boot:run
 
 http://localhost:8080/books
