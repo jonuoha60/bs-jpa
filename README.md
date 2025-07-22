@@ -32,7 +32,6 @@ A full-stack Spring Boot application that allows users to **Create**, **Read**, 
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/your-username/movies-database.git
 cd movies-database
 
