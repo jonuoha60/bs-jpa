@@ -35,7 +35,7 @@ A full-stack Spring Boot application that allows users to **Create**, **Read**, 
 git clone https://github.com/your-username/movies-database.git
 cd movies-database
 
-2. Configure MySQL Database
+### 2. Configure MySQL Database
 Create a database in MySQL (e.g., books):
 
 
@@ -50,7 +50,7 @@ spring.datasource.username=your_mysql_username
 spring.datasource.password=your_mysql_password
 spring.jpa.hibernate.ddl-auto=update
 
-3. Run the Application
+### 3. Run the Application
 Using terminal or your IDE:
 
 ./mvnw spring-boot:run
