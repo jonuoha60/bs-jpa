@@ -1,22 +1,22 @@
-# 📕 BOOK Database Application
+# BOOK Database Application
 
 A full-stack Spring Boot application that allows users to **Create**, **Read**, **Update**, and **Delete (CRUD)** book records using a MySQL database. This project demonstrates how to integrate a relational database with a Spring Boot backend while serving dynamic HTML views using Thymeleaf.
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ Add new books to the database
-- ✅ View a list of all books
-- ✅ Update books details
-- ✅ Delete books
-- ✅ Styled with CSS
-- ✅ RESTful endpoints
-- ✅ MVC architecture
+-  Add new books to the database
+-  View a list of all books
+-  Update books details
+-  Delete books
+-  Styled with CSS
+-  RESTful endpoints
+-  MVC architecture
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Java 17+
 - Spring Boot 3+
@@ -28,7 +28,7 @@ A full-stack Spring Boot application that allows users to **Create**, **Read**, 
 
 ---
 
-## 🛠️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
